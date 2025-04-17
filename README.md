@@ -66,24 +66,14 @@
 
 ## 📈 Estadísticas de GitHub
 
-<table>
-<tr>
-<td>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HKevinGuerrero&show_icons=true&theme=radical&count_private=true" />
-</td>
-<td>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HKevinGuerrero&layout=compact&theme=radical" />
-</td>
-</tr>
-</table>
-
-<br>
-
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=HKevinGuerrero&label=Profile%20Views&color=6c3adc&pretty=false)](https://visitcount.itsvg.in)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=HKevinGuerrero&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HKevinGuerrero&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=HKevinGuerrero&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=HKevinGuerrero&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
 
 <!-- Separador -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
