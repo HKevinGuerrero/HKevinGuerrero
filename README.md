@@ -1,37 +1,37 @@
-<!-- Banner animado -->
+<!-- Animated Banner -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="banner gif"/>
 
-<!-- Presentación -->
+<!-- Presentation -->
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block; animation: slidein 1s ease-in;">👋 Hola, soy Kevin Guerrero</h1></summary>
+    <summary><h1 style="display: inline-block; animation: slidein 1s ease-in;">👋 Hi, I'm Kevin Guerrero</h1></summary>
   </ul>
 </div>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> Sobre mí
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"></picture> About Me
 
 <picture>
   <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200px">
 </picture>
 
-- 🎓 Estudiante de Ingeniería en Sistemas en la [Universidad Tecnológica de Bolívar](https://www.utb.edu.co)  
-  🎓 Graduado de Desarrollador de Software en **Universidad Tecnológica Comfenalco**
-- 💻 Apasionado por el desarrollo backend, aplicaciones web y la ciberseguridad
-- 🧠 Siempre aprendiendo nuevas tecnologías: Spring Boot, Flutter, SQL, C++, Python
-- 🚀 Proyectos destacados en GitHub con enfoque en software educativo y sistemas web
-- 📫 Contáctame: [![Email](https://img.shields.io/badge/Email-KevinGuerrero-orange?style=flat-square&logo=gmail)](mailto:kevinjoseguerrero44@gmail.com)
+- 🎓 Computer Systems Engineering student at [Universidad Tecnológica de Bolívar](https://www.utb.edu.co)  
+  🎓 Graduate in Software Development from [Universidad Tecnológica Comfenalco](https://tecnologicocomfenalco.edu.co/)
+- 💻 Passionate about backend development, web applications, and cybersecurity
+- 🧠 Constantly learning new technologies: Spring Boot, Flutter, SQL, C++, Python
+- 🚀 Highlighted GitHub projects focused on educational software and web systems
+- 📫 Contact me: [![Email](https://img.shields.io/badge/Email-KevinGuerrero-orange?style=flat-square&logo=gmail)](mailto:kevinjoseguerrero44@gmail.com)
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Technologies & Tools
 
-### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="20px"> Lenguajes
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="20px"> </picture> Programming Languages
 
 ![Java](https://skillicons.dev/icons?i=java)
 ![Python](https://skillicons.dev/icons?i=python)
 ![C++](https://skillicons.dev/icons?i=cpp)
 
-### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="20px"> Frontend
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="20px"> </picture> Frontend Development
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
 </div>
 
-### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="20px"> Herramientas y frameworks
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="20px"> </picture> Software & Frameworks
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
@@ -48,13 +48,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
 
-### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="20px"> IDEs
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="20px"> </picture> IDEs
 
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Apache NetBeans](https://img.shields.io/badge/Apache%20NetBeans-1B6AC6?style=flat-square&logo=apachenetbeanside&logoColor=white)
 
-### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="20px"> Sistemas Operativos
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width="20px"> </picture> Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
@@ -63,15 +63,15 @@
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Featured Projects
 
-- 🔧 [optibackendCOMPLETO](https://github.com/HKevinGuerrero/optibackendCOMPLETO): Backend en Java + Spring Boot  
-- 📊 [ProyectodeAula.FERIA](https://github.com/HKevinGuerrero/ProyectodeAula.FERIA): Aplicación educativa con TypeScript  
-- 🌐 [FrontProyecto](https://github.com/HKevinGuerrero/FrontProyecto): Configuración frontend
+- 🔧 [optibackendCOMPLETO](https://github.com/HKevinGuerrero/optibackendCOMPLETO): Backend using Java + Spring Boot  
+- 📊 [ProyectodeAula.FERIA](https://github.com/HKevinGuerrero/ProyectodeAula.FERIA): Educational app with TypeScript  
+- 🌐 [FrontProyecto](https://github.com/HKevinGuerrero/FrontProyecto): Frontend configuration
 
 ---
 
-## 📈 Estadísticas de GitHub
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"> </picture> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HKevinGuerrero&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" />
@@ -80,17 +80,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=HKevinGuerrero&theme=dracula&column=4&margin-w=10&margin-h=15" height="150" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HKevinGuerrero/HKevinGuerrero/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HKevinGuerrero/HKevinGuerrero/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HKevinGuerrero/HKevinGuerrero/output/pacman-contribution-graph.svg">
-</picture>
-
 ---
 
-<!-- Separador inferior -->
+<!-- Bottom separator -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-🛠 Última edición: **Abril 2025** — ¡Gracias por visitar mi perfil! 🚀
+🛠 Last updated: **April 2025** — Thanks for visiting my profile! 🚀
