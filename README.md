@@ -15,7 +15,7 @@
 </picture>
 
 - 🎓 Computer Systems Engineering student at [Universidad Tecnológica de Bolívar](https://www.utb.edu.co)  
-  🎓 Graduate in Software Development from [Universidad Tecnológica Comfenalco](https://tecnologicocomfenalco.edu.co/)
+  🎓 Technologist in Software Development from [Universidad Tecnológica Comfenalco](https://tecnologicocomfenalco.edu.co/)
 - 💻 Passionate about backend development, `web applications`, **&** `cybersecurity`
 - 🧠 Constantly learning new technologies: Spring Boot, Flutter, SQL, C++, Python
 - :boom: You can visit [MY WEBSITE](Cooming soon) for my projects
