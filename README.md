@@ -16,7 +16,7 @@
 
 - 🎓 Computer Systems Engineering student at [Universidad Tecnológica de Bolívar](https://www.utb.edu.co)  
   🎓 Graduate in Software Development from [Universidad Tecnológica Comfenalco](https://tecnologicocomfenalco.edu.co/)
-- 💻 Passionate about backend development, 'web applications', **&** 'cybersecurity'
+- 💻 Passionate about backend development, `web applications`, **&** `cybersecurity`
 - 🧠 Constantly learning new technologies: Spring Boot, Flutter, SQL, C++, Python
 - 🚀 Highlighted GitHub projects focused on educational software and web systems
 - 📫 Contact me: [![Email](https://img.shields.io/badge/Email-KevinGuerrero-orange?style=flat-square&logo=gmail)](mailto:kevinjoseguerrero44@gmail.com)
