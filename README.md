@@ -19,7 +19,7 @@
 - 💻 Passionate about backend development, `web applications`, **&** `cybersecurity`
 - 🧠 Constantly learning new technologies: Spring Boot, Flutter, SQL, C++, Python
 - 🚀 Highlighted GitHub projects focused on educational software and web systems
-- 📫 Contact me: [![Email](https://img.shields.io/badge/Email-KevinGuerrero-orange?style=flat-square&logo=gmail)](mailto:kevinjoseguerrero44@gmail.com)
+- 📫 Contact me:  [![Email](https://img.shields.io/badge/Email-KevinGuerrero-orange?style=flat-square&logo=gmail)](mailto:kevinjoseguerrero44@gmail.com)
 
 ---
 
